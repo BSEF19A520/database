@@ -3,11 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/DELL/AndroidStudioProjects/database/app/src/main/res/layout/activity_main.xml" value="0.17481884057971014" />
+        <entry key="..\:/University/6th Semester/Mobile Computing/20220815DB-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/University/6th Semester/Mobile Computing/20220815DB-master/app/src/main/res/layout/activity_main.xml" value="0.22780797101449277" />
+        <entry key="..\:/University/6th Semester/Mobile Computing/MobileComputing/Databse/app/src/main/res/layout/activity_main.xml" value="0.275" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
